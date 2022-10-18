@@ -28,7 +28,8 @@ while(playAgain == true)
     else if(yesNo == "YES")
     {
         // This will run if the user says YES
-        Console.WriteLine("ALright.");
+        Console.WriteLine(" ");
+        Console.WriteLine("Alright.");
         Console.Write("Please enter a first number: ");
         // The two lines below will take the user's input and verify that it is a number
         string inputOne = Console.ReadLine();
@@ -36,7 +37,8 @@ while(playAgain == true)
             if(isNumber == true)
             {
                 // This will run if the number is valid
-                Console.Write("Now enter another number:");
+                Console.WriteLine(" ");
+                Console.Write("Now enter a second number: ");
                 string inputTwo = Console.ReadLine();
                 isNumber = Int32.TryParse(inputTwo, out numTwo);
                     if(isNumber == true)
@@ -44,35 +46,46 @@ while(playAgain == true)
                         // This will run if the second input is valid
                         if(numOne > numTwo)
                         {
+                            Console.WriteLine(" ");
                             Console.WriteLine($"{numOne} is greater than {numTwo}");
                             Console.WriteLine($"{numTwo} is less than {numOne}");
+                            Console.WriteLine(" ");
                         }
                         else if
                         (numOne < numTwo)
                         {
+                            Console.WriteLine(" ");
                             Console.WriteLine($"{numOne} is less than {numTwo}");
                             Console.WriteLine($"{numTwo} is greater than {numOne}");
+                            Console.WriteLine(" ");
                         }
                         else
                         {
+                            Console.WriteLine(" ");
                             Console.WriteLine($"{numOne} is equal to {numTwo}");
+                            Console.WriteLine(" ");
                         }
                     }
                     else
                     {
+                        Console.WriteLine(" ");
                         Console.WriteLine("Invalid Input");
                         Console.WriteLine(" ");
                     }
             }
             else
             {
+                Console.WriteLine(" ");
                 Console.WriteLine("Invalid Input");
+                Console.WriteLine(" ");
             }
 
 
     }
     else
     {
+        Console.WriteLine(" ");
         Console.WriteLine("Invalid input");
+        Console.WriteLine(" ");
     }
 }
