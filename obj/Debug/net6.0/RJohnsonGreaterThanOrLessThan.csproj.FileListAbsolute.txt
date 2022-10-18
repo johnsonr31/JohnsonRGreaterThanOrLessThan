@@ -1,0 +1,15 @@
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.exe
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.deps.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.runtimeconfig.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.csproj.AssemblyReference.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.AssemblyInfoInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.AssemblyInfo.cs
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\refint\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.genruntimeconfig.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\ref\RJohnsonGreaterThanOrLessThan.dll
