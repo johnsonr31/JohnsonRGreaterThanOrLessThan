@@ -41,8 +41,11 @@ while(playAgain == true)
                 // This will run if the number is valid
                 Console.WriteLine(" ");
                 Console.Write("Now enter a second number: ");
-                string inputTwo = Console.ReadLine();
-                isNumber = Int32.TryParse(inputTwo, out numTwo);
+
+                while(numInput == true)
+                {
+                    string inputTwo = Console.ReadLine();
+                    isNumber = Int32.TryParse(inputTwo, out numTwo);
                     if(isNumber == true)
                     {
                         // If the second input is valid, the program will continue and print the inputs in the console
@@ -82,8 +85,10 @@ while(playAgain == true)
                         //
                         Console.WriteLine(" ");
                         Console.WriteLine("Invalid Input");
-                        Console.WriteLine(" ");
+                        Console.WriteLine("Please Enter a valid number: ");
                     }
+                }
+                
             }
             else
             {
