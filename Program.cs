@@ -1,6 +1,5 @@
 ﻿// Richard Johnson
 // 10-18-22
-//
 
 Console.Clear();
 bool playAgain = true;
