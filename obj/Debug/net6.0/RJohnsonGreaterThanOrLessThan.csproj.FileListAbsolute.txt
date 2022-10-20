@@ -13,3 +13,18 @@ C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOr
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.pdb
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.genruntimeconfig.cache
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\ref\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.exe
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.deps.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\bin\Debug\net6.0\RJohnsonGreaterThanOrLessThan.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\refint\RJohnsonGreaterThanOrLessThan.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\RJohnsonGreaterThanOrLessThan.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\RJohnsonGreaterThanOrLessThan\obj\Debug\net6.0\ref\RJohnsonGreaterThanOrLessThan.dll
